@@ -43,10 +43,3 @@ I chose **"todos"** as the resource and implemented full Create, Read, Update, D
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/todo-api-react.git
-cd todo-api-react
